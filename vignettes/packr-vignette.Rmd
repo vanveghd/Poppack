@@ -6,14 +6,17 @@ vignette: >
   %\VignetteEngine{knitr::rmarkdown}
   %\VignetteEncoding{UTF-8}
 ---
+#Population of Mashhad in the year 2016
 
-```{r, include = FALSE}
-knitr::opts_chunk$set(
-  collapse = TRUE,
-  comment = "#>"
-)
-```
+#Niloofar Nalaee
+
+The goal of Poppack is to reveals the population in Mashhad according to numbers of persons and families and compare the number of owners and tenant and some other information (https://github.com/NiloofarNL/Poppack)
+
 
 ```{r setup}
 library(Poppack)
+library(ggplot2)
+library(dplyr)
+library(sf)
+
 ```
