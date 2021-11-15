@@ -6,7 +6,7 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of Poppack is to …
+The goal of Poppack is to reveals the population in Mashhad according to numbers of persons and families and compare the number of owners and tenant and some other information.
 
 ## Installation
 
