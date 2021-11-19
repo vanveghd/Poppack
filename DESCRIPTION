@@ -22,5 +22,3 @@ Vignettebuilder: knitr
 LazyData: true
 Config/testthat/edition: 3
 VignetteBuilder: knitr
-Imports: 
-    Poppack
